@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,figma,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,figma,word,excel,canva,notion" /><br>
 </div>
 
 <br/>
@@ -41,11 +41,9 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/dist/github-contribution-grid-snake.svg" />
-  </picture>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake.svg" />
+  
   <br/><br/><br/>
 </div>
 
@@ -71,3 +69,4 @@
 </div>
 
 <br/>
+
