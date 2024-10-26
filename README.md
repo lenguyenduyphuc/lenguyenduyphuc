@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Duy+Phuc+Le!;" />
 </h1>
 
-<h3 align="center">A growing Full Stack Developer that loves coding 🇨🇦</h3>
+<h3 align="center">A growing Full Stack Developer that loves coding</h3>
 
 <br/>
 
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,figma,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,notion" /><br>
 </div>
 
 <br/>
@@ -41,10 +41,11 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/dist/github-contribution-grid-snake.svg" />
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake.svg" />
+  
   <br/><br/><br/>
 </div>
-
 
 <hr/>
 
