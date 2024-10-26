@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Duy+Phuc+Le!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+journey!+👋;+I'm+Nguyen+Duy+Phuc+Le!;" />
 </h1>
 
 <h3 align="center">A growing Full Stack Developer that loves coding</h3>
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at the University of South Florida
+ 🔭 I’m currently studying at the **University of South Florida**
  
  🌱 I’m currently learning **React, Node.js, and Express.js**
 
@@ -68,7 +68,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Goodbye and hope to make connection with you' /></a>
 </div>
 
 <br/>
