@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently studying in University of South Florida
+ 🔭 I’m currently studying at the University of South Florida
  
- 🌱 I’m currently learning **React, Nodejs and ExpressJs**
+ 🌱 I’m currently learning **React, Node.js, and Express.js**
 
-⚡ Fun fact **I love EDM music and hitting the gym**
+⚡ Fun fact: **I love EDM music and hitting the gym**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:duyphuclenguyen@gmail.com">
@@ -25,17 +25,15 @@
   <a href="https://www.linkedin.com/in/duyphuclenguyen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,figma,microsoft word, microsoft excel, canva, notion" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,figma,word,excel,canva,notion" /><br>
 </div>
 
 <br/>
@@ -53,11 +51,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=lenguyenduyphuc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -71,3 +69,4 @@
 </div>
 
 <br/>
+
