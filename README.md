@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A growing Full Stack Developer that loves coding</h3>
-<p> Loves lifting and chatting too :)</p>
+<h4 align="center"> Loves lifting and chatting too :)</h4>
 
 <br/>
 
