@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Node.js, Express.js, Python and Flask**
 
-⚡ Fun fact: **I am going to work McDonalds ;-;**
+⚡ Fun fact: **I am going to work at McDonalds ;-;**
 
 </div>
  
