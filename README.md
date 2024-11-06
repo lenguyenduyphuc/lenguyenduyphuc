@@ -13,9 +13,9 @@
  
  🔭 I’m currently studying at the **University of South Florida**
  
- 🌱 I’m currently learning **React, Node.js, and Express.js**
+ 🌱 I’m currently learning **Node.js, Express.js, Python and Flask**
 
-⚡ Fun fact: **I love EDM music and hitting the gym**
+⚡ Fun fact: **I am going to work McDonalds ;-;**
 
 </div>
  
