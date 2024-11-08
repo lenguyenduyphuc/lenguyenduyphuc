@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,react,html,css" />
     <br/>
     <!-- Second line of icons -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,notion,nodejs,express,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,notion,nodejs,express,mongodb,mysql,flask" />
 </div>
 
 
