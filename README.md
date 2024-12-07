@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+:)+👋;+I'm+Nguyen+Duy+Phuc+Le!;" />
 </h1>
 
-<h3 align="center">A growing Full Stack Developer that loves coding</h3>
-<h4 align="center"> Loves lifting and chatting too :)</h4>
+<h3 align="center">A growing Full Stack Developer and a Researcher in LLM agents and Neural Networks</h3>
+<h4 align="center">Loves making friends and chatting too :)</h4>
 
 <br/>
 
@@ -13,9 +13,9 @@
  
  🔭 I’m currently studying at the **University of South Florida**
  
- 🌱 I’m currently learning **Node.js, Express.js, Python and Flask**
+ 🌱 I’m currently learning **Redux, GraphQL and Pytorch**
 
-⚡ Fun fact: **I am going to work at McDonalds ;-;**
+⚡ Fun fact: **I am going to destroy final exams**
 
 </div>
  
