@@ -13,9 +13,9 @@
  
  🔭 I’m currently studying at the **University of South Florida**
  
- 🌱 I’m currently learning **Redux, GraphQL and Pytorch**
+ 🌱 I’m currently learning **GraphQL Pytorch, SQL**
 
-⚡ Fun fact: **I am going to destroy final exams**
+⚡ Fun fact: **EXcited for A fire 2025**
 
 </div>
  
