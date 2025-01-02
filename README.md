@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at the **University of South Florida**
+ 🔭 I am getting my Bachelor in Computer Science at **University of South Florida**
  
- 🌱 I’m currently learning **GraphQL Pytorch, SQL**
+ 🌱 I am learning **Neural Network Pytorch GraphQL, SQL**
 
-⚡ Fun fact: **EXcited for A fire 2025**
+⚡ Fun fact: **I am excited for what is to come in 2025**
 
 </div>
  
@@ -48,7 +48,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Adventures 🐍</h2>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake-dark.svg" />
