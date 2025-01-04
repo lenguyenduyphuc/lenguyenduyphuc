@@ -66,6 +66,7 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="c" width="65" height="65" />
     </p>
   </details>
 
@@ -74,7 +75,10 @@
     <br>
     <p>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+      <img src="https://techstack-generator.vercel.app/expressjs-icon.svg" alt="expressjs" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="nodejs" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="sass" width="65" height="65" />
     </p>
   </details>
 
