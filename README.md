@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views" />
   <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
 </div>
