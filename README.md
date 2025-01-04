@@ -30,18 +30,17 @@
   <h2>💻 Tech Stack</h2>
   
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" alt="languages" />
   
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,html,css,redux"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,redux" alt="frontend" />
   
   <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" alt="backend" />
   
   <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,pytorch" alt="tools" />
 </div>
-
 <div align="center">
   <h2>🏆 GitHub Stats</h2>
   
