@@ -1,12 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api? 
-  type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Welcome%20to%20my%20Universe&desc=Where%20Code%20Meets%20Creativity&animation=fadeIn&fontColor=ffffff&fontSize=50&descSize=20&fontAlignY=35&descAlignY=52">
-
-  <div style="background: linear-gradient(to right, #3B82F6, #10B981); padding: 10px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views" />
-    <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
-    <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
-  </div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Visitor's%20count&descAlignY=51&descAlign=62"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views" />
 </div>
 
 <div align="center">
@@ -111,42 +105,13 @@
 <br>
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>
-    <span style="color: #3B82F6;">GitHub Statistics & Achievements</span>
-  </h2>
-
-  <div style="background: rgba(59, 130, 246, 0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <table>
-      <tr>
-        <td>
-          <img src="https://github-profile-trophy.vercel.app/?username=lenguyenduyphuc&theme=algolia&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
-        </td>
-      </tr>
-    </table>
-
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&bg_color=0d1117"/>
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/? 
-  user=lenguyenduyphuc&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=ffffff&background=0d1117"/>
-    </div>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0d1117&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6"/>
-
-  <div style="background: rgba(59, 130, 246, 0.05); border-radius: 10px; padding: 20px; margin-top: 20px;">
-      <h3 align="left" style="color: #3B82F6;">
-        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
-        Languages and Tools
-      </h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=0d1117&langs_count=8&card_width=400"/>
-      
-  <div style="margin-top: 20px;">
-      <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,react,nodejs,mongodb" alt="Skills" />
-    </div>
-  </div>
-</div>
-
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%;"/>
+  <h2>🏆 GitHub Stats</h2>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="github stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" />
 </div>
 
 <div align="center">
