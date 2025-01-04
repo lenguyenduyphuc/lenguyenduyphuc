@@ -63,10 +63,11 @@
     <summary><b>Languages</b></summary>
     <br>
     <p>
+      <img src="https://skillicons.dev/icons?i=c" />
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="c" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=c" />
     </p>
   </details>
 
@@ -74,11 +75,9 @@
     <summary><b>Frontend Development</b></summary>
     <br>
     <p>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+      <img src="https://skillicons.dev/icons?i=html,css" />
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
-      <img src="https://techstack-generator.vercel.app/expressjs-icon.svg" alt="expressjs" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="nodejs" width="65" height="65" />
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="sass" width="65" height="65" />
     </p>
   </details>
 
@@ -86,7 +85,12 @@
     <summary><b>Backend Development & Database</b></summary>
     <br>
     <p>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask,graphql" />
+      <img src="https://skillicons.dev/icons?i=mongodb,sql" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=flask,pytorch" />
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mongodb,sql" />
     </p>
   </details>
 
@@ -94,9 +98,10 @@
     <summary><b>Tools & Technologies</b></summary>
     <br>
     <p>
-      <img src="https://skillicons.dev/icons?i=vscode,github,git,docker" />
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" />
-      <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="pytorch" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=vscode,git" />
     </p>
   </details>
 </div>
