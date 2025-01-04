@@ -33,13 +33,13 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,react,html,css" />
   
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,html,css,redux" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,redux"/>
   
   <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" />
   
   <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,pytorch" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,pytorch"/>
 </div>
 
 <div align="center">
