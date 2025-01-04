@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Visitor's%20count&descAlignY=51&descAlign=62"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views" />
+  <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
 </div>
 
 <div align="center">
@@ -71,6 +73,8 @@
     <br>
     <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width="45" height="45" alt="Node"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
@@ -82,7 +86,7 @@
     <br>
     <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="45" height="45" alt="SQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
@@ -94,10 +98,11 @@
     <summary><b>Tools & Technologies</b></summary>
     <br>
     <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="45" height="45" alt="Prettier"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
     </p>
   </details>
 </div>
@@ -108,10 +113,10 @@
   <h2>🏆 GitHub Stats</h2>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="github stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&line=3B82F6&point=3B82F6" width="98%" alt="graph"/>
+  
 </div>
 
 <div align="center">
