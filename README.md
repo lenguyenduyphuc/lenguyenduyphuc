@@ -30,7 +30,7 @@
   <h2>💻 Tech Stack</h2>
   
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,react,html,css" />
   
   <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,html,css,redux" alt="frontend" />
