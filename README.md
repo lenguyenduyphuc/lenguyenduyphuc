@@ -63,7 +63,6 @@
     <summary><b>Languages</b></summary>
     <br>
     <p>
-      <img src="https://skillicons.dev/icons?i=c" />
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" />
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
@@ -75,9 +74,9 @@
     <summary><b>Frontend Development</b></summary>
     <br>
     <p>
-      <img src="https://skillicons.dev/icons?i=html,css" />
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="nodejs" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=html,css"/>
     </p>
   </details>
 
