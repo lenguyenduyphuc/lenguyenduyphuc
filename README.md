@@ -1,79 +1,67 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+:)+👋;+I'm+Nguyen+Duy+Phuc+Le!;" />
-</h1>
-
-<h3 align="center">A growing Full Stack Developer and a Researcher in LLM agents and Neural Networks</h3>
-<h4 align="center">Loves making friends and chatting too :)</h4>
-
-<br/>
-
 <div align="center">
- 
- 🔭 I am getting my Bachelor in Computer Science at **University of South Florida**
- 
- 🌱 I am learning **Neural Network Pytorch GraphQL, SQL**
-
-⚡ Fun fact: **I am excited for what is to come in 2025**
-
-</div>
- 
-<div align="center"> 
-  <a href="mailto:duyphuclenguyen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/duyphuclenguyen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://lenguyenduyphuc.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc" alt="visitors" />
 </div>
 
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <!-- First line of icons -->
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,react,html,css" />
-    <br/>
-    <!-- Second line of icons -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,notion,nodejs,express,mongodb,mysql,flask,redux,pytorch" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+👋;I'm+Nguyen+Duy+Phuc+Le;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-
-<br/>
-<hr/>
+<div align="center">
+  <h2>🌟 About Me</h2>
+  <p><em>A passionate Full Stack Developer and AI Researcher</em></p>
+  
+  <p>
+    🎓 Pursuing Bachelor's in Computer Science at <strong>University of South Florida</strong><br/>
+    🔬 Researching LLM agents and Neural Networks<br/>
+    🌱 Currently learning <strong>Neural Network PyTorch, GraphQL, SQL</strong><br/>
+    ⚡ Fun fact: Excited about the technological breakthroughs coming in 2025!
+  </p>
+</div>
 
 <div align="center">
-  <h2>🐍 My Adventures 🐍</h2>
-  <br>
+  <h2>🤝 Connect With Me</h2>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duyphuclenguyen@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyphuclenguyen/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lenguyenduyphuc.github.io/Portfolio/)
+</div>
+
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" alt="languages" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,html,css,redux" alt="frontend" />
+  
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" alt="backend" />
+  
+  <h3>Tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,pytorch" alt="tools" />
+</div>
+
+<div align="center">
+  <h2>🏆 GitHub Stats</h2>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="github stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" />
+</div>
+
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake.svg" />
   </picture>
-  <br/><br/><br/>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=lenguyenduyphuc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-<br/>
