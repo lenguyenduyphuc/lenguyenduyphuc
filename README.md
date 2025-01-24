@@ -98,7 +98,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="45" height="45" alt="Docker"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="45" height="45" alt="Linux"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" width="45" height="45" alt="Unity"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" width="45" height="45" alt="Unity" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-plain.svg" width="45" height="45" alt="AWS"/>
     </p>
   </details>
