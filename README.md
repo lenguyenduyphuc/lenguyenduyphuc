@@ -1,101 +1,54 @@
 <div align="center">
-  
-  <!-- Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=250&section=header&text=Welcome%20to%20my%20Universe&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views" />
+  <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
+</div>
 
-  <!-- Profile Views and GitHub Stats -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=lenguyenduyphuc&style=for-the-badge&color=0891b2&label=Profile+Views" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=for-the-badge&logo=github&labelColor=0891b2&color=10b981" alt="Stars"/>
-    <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=for-the-badge&logo=github&labelColor=0891b2&color=10b981" alt="Followers"/>
-  </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+👋;I'm+Nguyen+Duy+Phuc+Le;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-  <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi+there!+👋;I'm+Nguyen+Duy+Phuc+Le;Full+Stack+Developer" alt="Typing SVG"/>
-
-  <!-- Status Badge -->
-  <p>
-    <a href="https://github.com/lenguyenduyphuc">
-      <img src="https://img.shields.io/badge/🚀_Status-Coding_Something_Amazing-3B82F6?style=for-the-badge&labelColor=000000" alt="Coding Status"/>
-    </a>
-  </p>
-
-  <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-  <!-- About Me Section -->
+<div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
     About Me
   </h2>
-
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="40" align="center"> 
+  
+  <p align="center">
+    <a href="https://github.com/lenguyenduyphuc"><img src="https://img.shields.io/badge/Status-Coding%20Something%20Amazing-blue?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
+  
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="40"> 
     <em>A passionate Full Stack Developer and AI Researcher</em>
   </p>
-
-  <!-- About Me Details with Icons -->
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25"> Education
-      </td>
-      <td>
-        Bachelor's in Computer Science at <strong>University of South Florida</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="25"> Research
-      </td>
-      <td>
-        LLM agents and Neural Networks
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" width="25"> Learning
-      </td>
-      <td>
-        <strong>Neural Network, PyTorch, GraphQL, SQL</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="25"> Fun Fact
-      </td>
-      <td>
-        Excited about the technological breakthroughs coming in 2025!
-      </td>
-    </tr>
-  </table>
-
-  <!-- Animated Divider -->
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <p>
+    🎓 Pursuing Bachelor's Degree in Computer Science at <strong>University of South Florida</strong><br/>
+    🔬 Researching LLM agents and Neural Networks<br/>
+    🌱 Currently learning <strong>Neural Network, PyTorch, GraphQL, SQL</strong><br/>
+    ⚡ Fun fact: Excited about the technological breakthroughs coming in 2025!
+  </p>
+</div>
 
-  <!-- Connect With Me Section -->
+<div align="center">
   <h2>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
-    Let's Connect!
+    Connect With Me
   </h2>
-
-  <!-- Social Links with Hover Effects -->
-  <p>
-    <a href="mailto:duyphuclenguyen@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/duyphuclenguyen/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://lenguyenduyphuc.github.io/Portfolio/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
-    </a>
-  </p>
-
-  <!-- Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer"/>
+  
+  <a href="mailto:duyphuclenguyen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/duyphuclenguyen/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://lenguyenduyphuc.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
 </div>
 
 <div align="center">
