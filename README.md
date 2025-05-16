@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋;I'm+Nguyen+Duy+Phuc+Le;Full-Stack+Developer+%7C+AI+Researcher" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋;I'm+Nguyen+Duy+Phuc+Le;Full-Stack+Developer+AI+Researcher" alt="Typing SVG"/>
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
@@ -159,94 +159,6 @@
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider"/>
-</div>
-
-<!-- ────────────────────────── PROFESSIONAL EXP ────────────────────────── -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28" />
-  Professional Experience
-</h2>
-
-<div style="display:flex;flex-direction:column;gap:26px;max-width:850px;margin:20px auto">
-
-  <!-- May 2025 – Present -->
-  <div style="display:flex">
-    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
-      May 2025 – Present
-    </div>
-    <div style="flex:1;border-left:3px solid #F59E0B;padding-left:22px;position:relative">
-      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#F59E0B;border-radius:50%"></span>
-      <strong>Full-Stack Software Engineer</strong><br/>
-      <em>USF Research Developer</em>
-    </div>
-  </div>
-
-  <!-- Mar 2024 – Present -->
-  <div style="display:flex">
-    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
-      Mar 2024 – Present
-    </div>
-    <div style="flex:1;border-left:3px solid #F59E0B;padding-left:22px;position:relative">
-      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#F59E0B;border-radius:50%"></span>
-      <strong>Full-Stack Software Engineer</strong><br/>
-      <em>FinBudAI — UpYouth Tech Incubators</em>
-    </div>
-  </div>
-
-  <!-- Sep 2024 – Present -->
-  <div style="display:flex">
-    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
-      Sep 2024 – Present
-    </div>
-    <div style="flex:1;border-left:3px solid #3B82F6;padding-left:22px;position:relative">
-      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#3B82F6;border-radius:50%"></span>
-      <strong>Assistant Researcher & Developer</strong><br/>
-      <em>CISL — University of South Florida</em>
-    </div>
-  </div>
-
-  <!-- Jan 2025 – Present -->
-  <div style="display:flex">
-    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
-      Jan 2025 – Present
-    </div>
-    <div style="flex:1;border-left:3px solid #10B981;padding-left:22px;position:relative">
-      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#10B981;border-radius:50%"></span>
-      <strong>Assistant Researcher</strong><br/>
-      <em>Statistics Lab — University of South Florida</em>
-    </div>
-  </div>
-
-  <!-- Jan 2025 – May 2025 -->
-  <div style="display:flex">
-    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
-      Jan 2025 – May 2025
-    </div>
-    <div style="flex:1;border-left:3px solid #6366F1;padding-left:22px;position:relative">
-      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#6366F1;border-radius:50%"></span>
-      <strong>Team Lead</strong><br/>
-      <em>Computing Research Association — USF</em>
-    </div>
-  </div>
-
-  <!-- Mar 2023 -->
-  <div style="display:flex">
-    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
-      Mar 2023
-    </div>
-    <div style="flex:1;border-left:3px solid #EC4899;padding-left:22px;position:relative">
-      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#EC4899;border-radius:50%"></span>
-      <strong>SERC Committee</strong><br/>
-      <em>SASE — University of South Florida</em>
-    </div>
-  </div>
-
-</div>
-
-
-<!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
-<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider"/>
 </div>
 
@@ -281,7 +193,3 @@
 
 <!-- ─────────────────────────────── FOOTER ─────────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer"/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lenguyenduyphuc&color=3B82F6&style=flat-square" alt="Profile views"/>
-</div>
