@@ -176,66 +176,68 @@
   </h2>
 
   <!-- Experience Timeline -->
-  <div class="timeline">
+  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 25px; margin-top: 20px;">
+
     <!-- May 2025 - Present -->
-    <div class="experience-item">
-      <div class="date">May 2025 – Present</div>
-      <div class="content">
-        <div class="dot" style="background-color: #F59E0B;"></div>
-        <h3>Full-Stack Software Engineer</h3>
+    <div style="display: flex; width: 100%;">
+      <div style="flex: 0 0 180px; text-align: right; padding-right: 20px;"><strong>May 2025 – Present</strong></div>
+      <div style="flex: 1; border-left: 3px solid #F59E0B; padding-left: 20px; position: relative;">
+        <div style="position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; background-color: #F59E0B; border-radius: 50%;"></div>
+        <h3 style="margin: 0;">Full-Stack Software Engineer</h3>
         <p><em>USF Research Developer</em></p>
       </div>
     </div>
-    
+
     <!-- Mar 2024 - Present -->
-    <div class="experience-item">
-      <div class="date">Mar 2024 – Present</div>
-      <div class="content">
-        <div class="dot" style="background-color: #F59E0B;"></div>
-        <h3>Full-Stack Software Engineer</h3>
+    <div style="display: flex; width: 100%;">
+      <div style="flex: 0 0 180px; text-align: right; padding-right: 20px;"><strong>Mar 2024 – Present</strong></div>
+      <div style="flex: 1; border-left: 3px solid #F59E0B; padding-left: 20px; position: relative;">
+        <div style="position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; background-color: #F59E0B; border-radius: 50%;"></div>
+        <h3 style="margin: 0;">Full-Stack Software Engineer</h3>
         <p><em>FinBudAI — UpYouth Tech Incubators</em></p>
       </div>
     </div>
-    
+
     <!-- Sep 2024 - Present -->
-    <div class="experience-item">
-      <div class="date">Sep 2024 – Present</div>
-      <div class="content">
-        <div class="dot" style="background-color: #3B82F6;"></div>
-        <h3>Assistant Researcher & Developer</h3>
+    <div style="display: flex; width: 100%;">
+      <div style="flex: 0 0 180px; text-align: right; padding-right: 20px;"><strong>Sep 2024 – Present</strong></div>
+      <div style="flex: 1; border-left: 3px solid #3B82F6; padding-left: 20px; position: relative;">
+        <div style="position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; background-color: #3B82F6; border-radius: 50%;"></div>
+        <h3 style="margin: 0;">Assistant Researcher & Developer</h3>
         <p><em>CISL — University of South Florida</em></p>
       </div>
     </div>
-    
+
     <!-- Jan 2025 - Present -->
-    <div class="experience-item">
-      <div class="date">Jan 2025 – Present</div>
-      <div class="content">
-        <div class="dot" style="background-color: #10B981;"></div>
-        <h3>Assistant Researcher</h3>
+    <div style="display: flex; width: 100%;">
+      <div style="flex: 0 0 180px; text-align: right; padding-right: 20px;"><strong>Jan 2025 – Present</strong></div>
+      <div style="flex: 1; border-left: 3px solid #10B981; padding-left: 20px; position: relative;">
+        <div style="position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; background-color: #10B981; border-radius: 50%;"></div>
+        <h3 style="margin: 0;">Assistant Researcher</h3>
         <p><em>Statistics Lab — University of South Florida</em></p>
       </div>
     </div>
-    
+
     <!-- Jan 2025 - May 2025 -->
-    <div class="experience-item">
-      <div class="date">Jan 2025 – May 2025</div>
-      <div class="content">
-        <div class="dot" style="background-color: #6366F1;"></div>
-        <h3>Team Lead</h3>
+    <div style="display: flex; width: 100%;">
+      <div style="flex: 0 0 180px; text-align: right; padding-right: 20px;"><strong>Jan 2025 – May 2025</strong></div>
+      <div style="flex: 1; border-left: 3px solid #6366F1; padding-left: 20px; position: relative;">
+        <div style="position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; background-color: #6366F1; border-radius: 50%;"></div>
+        <h3 style="margin: 0;">Team Lead</h3>
         <p><em>Computing Research Association — USF</em></p>
       </div>
     </div>
-    
+
     <!-- Mar 2023 -->
-    <div class="experience-item">
-      <div class="date">Mar 2023</div>
-      <div class="content">
-        <div class="dot" style="background-color: #EC4899;"></div>
-        <h3>SERC Committee</h3>
+    <div style="display: flex; width: 100%;">
+      <div style="flex: 0 0 180px; text-align: right; padding-right: 20px;"><strong>Mar 2023</strong></div>
+      <div style="flex: 1; border-left: 3px solid #EC4899; padding-left: 20px; position: relative;">
+        <div style="position: absolute; left: -8px; top: 6px; width: 14px; height: 14px; background-color: #EC4899; border-radius: 50%;"></div>
+        <h3 style="margin: 0;">SERC Committee</h3>
         <p><em>SASE — University of South Florida</em></p>
       </div>
     </div>
+
   </div>
 </div>
 
