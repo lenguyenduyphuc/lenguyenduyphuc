@@ -8,14 +8,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋;I'm+Nguyen+Duy+Phuc+Le;Full-Stack+Developer+AI+Researcher" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+👋;I'm+Nguyen+Duy+Phuc+Le" alt="Typing SVG"/>
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider"/>
-</div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- ─────────────────────────────── ABOUT ──────────────────────────────── -->
 <div align="center">
   <h2>
@@ -43,9 +40,7 @@
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider"/>
-</div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────────────────── CONTACT ────────────────────────────── -->
 <div align="center">
@@ -66,9 +61,7 @@
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────────────────── TECH STACK ─────────────────────────── -->
 <div align="center">
@@ -124,9 +117,7 @@
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────────────── FEATURED PROJECTS ──────────────────────── -->
 <div align="center">
@@ -158,9 +149,7 @@
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Line divider"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ─────────────────────────────── STATS ──────────────────────────────── -->
 <div align="center">
@@ -173,9 +162,7 @@
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Line divider"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ───────────────────────────── SNAKE ─────────────────────────────────── -->
 <div align="center">
