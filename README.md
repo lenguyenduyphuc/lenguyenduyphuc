@@ -163,64 +163,87 @@
 </div>
 
 <!-- ────────────────────────── PROFESSIONAL EXP ────────────────────────── -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
-    Professional Experience
-  </h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28" />
+  Professional Experience
+</h2>
 
-  <div style="display:flex;flex-direction:column;align-items:flex-start;gap:25px;margin-top:20px;max-width:900px">
-    <div style="display:flex;width:100%">
-      <div style="flex:0 0 180px;text-align:right;padding-right:20px"><strong>May 2025 – Present</strong></div>
-      <div style="flex:1;border-left:3px solid #F59E0B;padding-left:20px;position:relative">
-        <div style="position:absolute;left:-8px;top:6px;width:14px;height:14px;background:#F59E0B;border-radius:50%"></div>
-        <h3 style="margin:0">Full-Stack Software Engineer</h3>
-        <p><em>USF Research Developer</em></p>
-      </div>
-    </div>
-    <div style="display:flex;width:100%">
-      <div style="flex:0 0 180px;text-align:right;padding-right:20px"><strong>Mar 2024 – Present</strong></div>
-      <div style="flex:1;border-left:3px solid #F59E0B;padding-left:20px;position:relative">
-        <div style="position:absolute;left:-8px;top:6px;width:14px;height:14px;background:#F59E0B;border-radius:50%"></div>
-        <h3 style="margin:0">Full-Stack Software Engineer</h3>
-        <p><em>FinBudAI — UpYouth Tech Incubators</em></p>
-      </div>
-    </div>
-    <div style="display:flex;width:100%">
-      <div style="flex:0 0 180px;text-align:right;padding-right:20px"><strong>Sep 2024 – Present</strong></div>
-      <div style="flex:1;border-left:3px solid #3B82F6;padding-left:20px;position:relative">
-        <div style="position:absolute;left:-8px;top:6px;width:14px;height:14px;background:#3B82F6;border-radius:50%"></div>
-        <h3 style="margin:0">Assistant Researcher & Developer</h3>
-        <p><em>CISL — University of South Florida</em></p>
-      </div>
-    </div>
-    <div style="display:flex;width:100%">
-      <div style="flex:0 0 180px;text-align:right;padding-right:20px"><strong>Jan 2025 – Present</strong></div>
-      <div style="flex:1;border-left:3px solid #10B981;padding-left:20px;position:relative">
-        <div style="position:absolute;left:-8px;top:6px;width:14px;height:14px;background:#10B981;border-radius:50%"></div>
-        <h3 style="margin:0">Assistant Researcher</h3>
-        <p><em>Statistics Lab — University of South Florida</em></p>
-      </div>
-    </div>
-    <div style="display:flex;width:100%">
-      <div style="flex:0 0 180px;text-align:right;padding-right:20px"><strong>Jan 2025 – May 2025</strong></div>
-      <div style="flex:1;border-left:3px solid #6366F1;padding-left:20px;position:relative">
-        <div style="position:absolute;left:-8px;top:6px;width:14px;height:14px;background:#6366F1;border-radius:50%"></div>
-        <h3 style="margin:0">Team Lead</h3>
-        <p><em>Computing Research Association — USF</em></p>
-      </div>
-    </div>
-    <div style="display:flex;width:100%">
-      <div style="flex:0 0 180px;text-align:right;padding-right:20px"><strong>Mar 2023</strong></div>
-      <div style="flex:1;border-left:3px solid #EC4899;padding-left:20px;position:relative">
-        <div style="position:absolute;left:-8px;top:6px;width:14px;height:14px;background:#EC4899;border-radius:50%"></div>
-        <h3 style="margin:0">SERC Committee</h3>
-        <p><em>SASE — University of South Florida</em></p>
-      </div>
-    </div>
+<div style="display:flex;flex-direction:column;gap:26px;max-width:850px;margin:20px auto">
 
+  <!-- May 2025 – Present -->
+  <div style="display:flex">
+    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
+      May 2025 – Present
+    </div>
+    <div style="flex:1;border-left:3px solid #F59E0B;padding-left:22px;position:relative">
+      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#F59E0B;border-radius:50%"></span>
+      <strong>Full-Stack Software Engineer</strong><br/>
+      <em>USF Research Developer</em>
+    </div>
   </div>
+
+  <!-- Mar 2024 – Present -->
+  <div style="display:flex">
+    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
+      Mar 2024 – Present
+    </div>
+    <div style="flex:1;border-left:3px solid #F59E0B;padding-left:22px;position:relative">
+      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#F59E0B;border-radius:50%"></span>
+      <strong>Full-Stack Software Engineer</strong><br/>
+      <em>FinBudAI — UpYouth Tech Incubators</em>
+    </div>
+  </div>
+
+  <!-- Sep 2024 – Present -->
+  <div style="display:flex">
+    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
+      Sep 2024 – Present
+    </div>
+    <div style="flex:1;border-left:3px solid #3B82F6;padding-left:22px;position:relative">
+      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#3B82F6;border-radius:50%"></span>
+      <strong>Assistant Researcher & Developer</strong><br/>
+      <em>CISL — University of South Florida</em>
+    </div>
+  </div>
+
+  <!-- Jan 2025 – Present -->
+  <div style="display:flex">
+    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
+      Jan 2025 – Present
+    </div>
+    <div style="flex:1;border-left:3px solid #10B981;padding-left:22px;position:relative">
+      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#10B981;border-radius:50%"></span>
+      <strong>Assistant Researcher</strong><br/>
+      <em>Statistics Lab — University of South Florida</em>
+    </div>
+  </div>
+
+  <!-- Jan 2025 – May 2025 -->
+  <div style="display:flex">
+    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
+      Jan 2025 – May 2025
+    </div>
+    <div style="flex:1;border-left:3px solid #6366F1;padding-left:22px;position:relative">
+      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#6366F1;border-radius:50%"></span>
+      <strong>Team Lead</strong><br/>
+      <em>Computing Research Association — USF</em>
+    </div>
+  </div>
+
+  <!-- Mar 2023 -->
+  <div style="display:flex">
+    <div style="width:160px;text-align:right;padding-right:18px;font-weight:600">
+      Mar 2023
+    </div>
+    <div style="flex:1;border-left:3px solid #EC4899;padding-left:22px;position:relative">
+      <span style="position:absolute;left:-9px;top:6px;width:14px;height:14px;background:#EC4899;border-radius:50%"></span>
+      <strong>SERC Committee</strong><br/>
+      <em>SASE — University of South Florida</em>
+    </div>
+  </div>
+
 </div>
+
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
 <div align="center">
@@ -235,9 +258,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&line=3B82F6&point=10B981"/>
-  <a href="https://github.com/lenguyenduyphuc">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=lenguyenduyphuc&theme=nord&row=1&column=6"/>
-  </a>
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
