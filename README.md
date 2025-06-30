@@ -133,9 +133,6 @@
           <a href="https://github.com/lenguyenduyphuc/The-Directory">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
           </a>
-          <br />
-          <strong>📁 The Directory</strong>
-          <br />
           <sub>A centralized student organization portal for streamlined club management.</sub>
         </div>
       </td>
@@ -144,9 +141,6 @@
           <a href="https://github.com/lenguyenduyphuc/CountryInfo">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
           </a>
-          <br />
-          <strong>🌍 CountryInfo</strong>
-          <br />
           <sub>Search and explore global country data with dynamic REST API integration.</sub>
         </div>
       </td>
@@ -157,9 +151,6 @@
           <a href="https://github.com/lenguyenduyphuc/SafeRides">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
           </a>
-          <br />
-          <strong>🚗 SafeRides</strong>
-          <br />
           <sub>Campus-safe ride-sharing platform connecting students with verified drivers.</sub>
         </div>
       </td>
@@ -168,9 +159,6 @@
           <a href="https://github.com/lenguyenduyphuc/DeStress">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
           </a>
-          <br />
-          <strong>🧘 DeStress</strong>
-          <br />
           <sub>Mental health app offering guided breathing, journaling, and mood tracking.</sub>
         </div>
       </td>
@@ -181,9 +169,6 @@
           <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
           </a>
-          <br />
-          <strong>🧠 Nano GPT</strong>
-          <br />
           <sub>Lightweight GPT implementation for training and experimentation on small datasets.</sub>
         </div>
       </td>
@@ -192,9 +177,6 @@
           <a href="https://github.com/lenguyenduyphuc/CodePath">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
           </a>
-          <br />
-          <strong>📘 CodePath</strong>
-          <br />
           <sub>Hands-on projects and solutions from CodePath's software engineering curriculum.</sub>
         </div>
       </td>
