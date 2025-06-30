@@ -127,26 +127,45 @@
   </h2>
 
   <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
-    <a href="https://github.com/lenguyenduyphuc/The-Directory">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10"/>
-    </a>
-    <a href="https://github.com/lenguyenduyphuc/CountryInfo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10"/>
-    </a>
-    <a href="https://github.com/lenguyenduyphuc/SafeRides">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10"/>
-    </a>
-    <a href="https://github.com/lenguyenduyphuc/DeStress">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10"/>
-    </a>
-    <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10"/>
-    </a>
-    <a href="https://github.com/lenguyenduyphuc/CodePath">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10"/>
-    </a>
+    <div style="text-align:center">
+      <a href="https://github.com/lenguyenduyphuc/The-Directory">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10"/>
+      </a>
+      <p>A centralized student organization portal for streamlined club management.</p>
+    </div>
+    <div style="text-align:center">
+      <a href="https://github.com/lenguyenduyphuc/CountryInfo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10"/>
+      </a>
+      <p>Search and explore global country data with dynamic REST API integration.</p>
+    </div>
+    <div style="text-align:center">
+      <a href="https://github.com/lenguyenduyphuc/SafeRides">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10"/>
+      </a>
+      <p>Campus-safe ride-sharing platform connecting students with verified drivers.</p>
+    </div>
+    <div style="text-align:center">
+      <a href="https://github.com/lenguyenduyphuc/DeStress">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10"/>
+      </a>
+      <p>Mental health app offering guided breathing, journaling, and mood tracking.</p>
+    </div>
+    <div style="text-align:center">
+      <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10"/>
+      </a>
+      <p>Lightweight GPT implementation for training and experimentation on small datasets.</p>
+    </div>
+    <div style="text-align:center">
+      <a href="https://github.com/lenguyenduyphuc/CodePath">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10"/>
+      </a>
+      <p>Hands-on projects and solutions from CodePath's software engineering curriculum.</p>
+    </div>
   </div>
 </div>
+
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
