@@ -124,60 +124,70 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30" />
   Featured Projects
 </h2>
-
 <div align="center">
   <table>
     <tr>
       <td align="center" width="300">
         <a href="https://github.com/lenguyenduyphuc/The-Directory">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
         </a>
         <br />
-        <sub>📁 A centralized student organization portal for streamlined club management.</sub>
+        <strong>📁 The Directory</strong>
+        <br />
+        <sub>A centralized student organization portal for streamlined club management.</sub>
       </td>
       <td align="center" width="300">
         <a href="https://github.com/lenguyenduyphuc/CountryInfo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
         </a>
         <br />
-        <sub>🌍 Search and explore global country data with dynamic REST API integration.</sub>
+        <strong>🌍 CountryInfo</strong>
+        <br />
+        <sub>Search and explore global country data with dynamic REST API integration.</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="300">
         <a href="https://github.com/lenguyenduyphuc/SafeRides">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
         </a>
         <br />
-        <sub>🚗 Campus-safe ride-sharing platform connecting students with verified drivers.</sub>
+        <strong>🚗 SafeRides</strong>
+        <br />
+        <sub>Campus-safe ride-sharing platform connecting students with verified drivers.</sub>
       </td>
       <td align="center" width="300">
         <a href="https://github.com/lenguyenduyphuc/DeStress">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
         </a>
         <br />
-        <sub>🧘 Mental health app offering guided breathing, journaling, and mood tracking.</sub>
+        <strong>🧘 DeStress</strong>
+        <br />
+        <sub>Mental health app offering guided breathing, journaling, and mood tracking.</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="300">
         <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
         </a>
         <br />
-        <sub>🧠 Lightweight GPT implementation for training and experimentation on small datasets.</sub>
+        <strong>🧠 Nano GPT</strong>
+        <br />
+        <sub>Lightweight GPT implementation for training and experimentation on small datasets.</sub>
       </td>
       <td align="center" width="300">
         <a href="https://github.com/lenguyenduyphuc/CodePath">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" />
         </a>
         <br />
-        <sub>📘 Hands-on projects and solutions from CodePath's software engineering curriculum.</sub>
+        <strong>📘 CodePath</strong>
+        <br />
+        <sub>Hands-on projects and solutions from CodePath's software engineering curriculum.</sub>
       </td>
     </tr>
   </table>
 </div>
-
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
