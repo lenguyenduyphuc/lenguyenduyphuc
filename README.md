@@ -151,7 +151,6 @@
         </div>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="300">
         <div style="border: 1px solid #444; padding: 16px; border-radius: 12px; background-color: #1a1b26;">
@@ -176,7 +175,6 @@
         </div>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="300">
         <div style="border: 1px solid #444; padding: 16px; border-radius: 12px; background-color: #1a1b26;">
