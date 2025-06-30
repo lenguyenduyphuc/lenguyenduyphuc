@@ -123,7 +123,7 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30">
-    Featured Projects
+    Featured Projects (Click to see)
   </h2>
 
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
