@@ -126,26 +126,52 @@
     Featured Projects
   </h2>
 
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; font-family: sans-serif;">
+
+  <div style="width: 300px; text-align: center;">
     <a href="https://github.com/lenguyenduyphuc/The-Directory">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
+    <p style="margin-top: 8px;">Directory-style app to explore and list resources efficiently using categorized views.</p>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
     <a href="https://github.com/lenguyenduyphuc/CountryInfo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
+    <p style="margin-top: 8px;">Country data viewer with real-time statistics, flags, and multilingual support.</p>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
     <a href="https://github.com/lenguyenduyphuc/SafeRides">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
+    <p style="margin-top: 8px;">Ride-sharing solution prioritizing user safety, route tracking, and contact alerts.</p>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
     <a href="https://github.com/lenguyenduyphuc/DeStress">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
+    <p style="margin-top: 8px;">Mental wellness app with breathing exercises, mood journaling, and habit tracking.</p>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
     <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
+    <p style="margin-top: 8px;">Mini GPT clone built from scratch for understanding transformer internals.</p>
+  </div>
+
+  <div style="width: 300px; text-align: center;">
     <a href="https://github.com/lenguyenduyphuc/CodePath">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
+    <p style="margin-top: 8px;">Coursework and projects completed as part of CodePath's technical curriculum.</p>
   </div>
+
+</div>
+
 </div>
 
 <!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
