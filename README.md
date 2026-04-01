@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://github.com/lenguyenduyphuc/DeStress">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10&v=1"/>
   </a>
   <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10"/>
@@ -58,8 +58,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/lenguyenduyphuc/CountryInfo">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/lenguyenduyphuc/countryInfo">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=countryInfo&theme=tokyonight&hide_border=true&border_radius=10&v=1"/>
   </a>
   <a href="https://github.com/lenguyenduyphuc/CodePath">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10"/>
@@ -67,11 +67,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ttrang87/toast-tutor">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ttrang87&repo=toast-tutor&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/ttrang87/toastTutor">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ttrang87&repo=toastTutor&theme=tokyonight&hide_border=true&border_radius=10&v=1"/>
   </a>
-  <a href="https://github.com/lenguyenduyphuc/DeStress">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Destress&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/lenguyenduyphuc/destressAI">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=destressAI&theme=tokyonight&hide_border=true&border_radius=10&v=1"/>
   </a>
 </div>
 
