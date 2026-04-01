@@ -14,7 +14,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft;Developer+Guardiene+USF;FullStack+%7C+AI+Engineer;4.0+GPA+%7C+USF+Honors+College"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%AA%9F;Developer+Guardiene+USF;FullStack+%7C+AI+Engineer;4.0+GPA+%7C+USF+Honors+College"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -24,9 +24,9 @@
 | Role | Company | Period |
 |------|---------|--------|
 | 🔷 **Software Engineer Intern** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="18" align="absmiddle"/> **Microsoft** | Summer 2026 · Redmond, WA |
-| 🤖 **Software Engineer Intern** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Official_USF_Bulls_Athletic_Logo.png" height="18" align="absmiddle"/> **Guardiane @ USF** | May 2025 – Present · Tampa, FL |
+| 🤖 **Software Engineer Intern** | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Official_USF_Bulls_Athletic_Logo.png" height="18" align="absmiddle"/> **Guardiane @ USF** | May 2025 – Present · Tampa, FL |
 | 💰 **Software Engineer Intern** | **FinBudAI** *(Top Startup — UpYouth TechIncubators 2024)* | Jan – May 2025 · Chicago, IL |
-| 🔬 **Student Software Engineer** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Official_USF_Bulls_Athletic_Logo.png" height="18" align="absmiddle"/> **CIS Lab @ USF** | Sep 2024 – May 2025 · Tampa, FL |
+| 🔬 **Student Software Engineer** | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Official_USF_Bulls_Athletic_Logo.png" height="18" align="absmiddle"/> **CIS Lab @ USF** | Sep 2024 – May 2025 · Tampa, FL |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
