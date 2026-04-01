@@ -1,32 +1,43 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Welcome%20to%20Phuc's%20Universe&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
-  <a href="mailto:nguyenduyphucle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/phucleng/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://lenguyenduyphuc.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://github.com/lenguyenduyphuc"><img src="https://img.shields.io/badge/Status-Coding%20Something%20Amazing-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Contact & Social Links -->
+  <a href="mailto:nguyenduyphucle@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/phucleng/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://lenguyenduyphuc.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lenguyenduyphuc">
+    <img src="https://img.shields.io/badge/Status-Coding%20Something%20Amazing-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
   <br/>
 
+  <!-- Stats -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views"/>
   <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%94%B7;Developer+Guardiene+USF;FullStack+%7C+AI+Engineer;4.0+GPA+%7C+USF+Honors+College"/>
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%92%BB;Developer+Guardiane+USF;FullStack+%7C+AI+Engineer;4.0+GPA+%7C+USF+Honors+College"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 ## 🏢 Experience
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🔷 **Software Engineer Intern** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" align="center"/> **Microsoft** <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> | Summer 2026 · Redmond, WA |
-| 🤖 **Software Engineer Intern** | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/University_of_South_Florida_seal.svg/150px-University_of_South_Florida_seal.svg.png" width="18" align="center"/> **Guardiane @ USF** <img src="https://img.shields.io/badge/Guardiane-006747?style=for-the-badge&logo=universityofsouthflorida&logoColor=white"/> | May 2025 – Present · Tampa, FL |
+| 🔷 **Software Engineer Intern** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" align="center"/> **Microsoft** | Summer 2026 · Redmond, WA |
+| 🤖 **Software Engineer Intern** | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/University_of_South_Florida_seal.svg/150px-University_of_South_Florida_seal.svg.png" width="18" align="center"/> **Guardiane @ USF** | May 2025 – Present · Tampa, FL |
 | 💰 **Software Engineer Intern** | **FinBudAI** *(Top Startup — UpYouth TechIncubators 2024)* | Jan – May 2025 · Chicago, IL |
-| 🔬 **Student Software Engineer** | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/University_of_South_Florida_seal.svg/150px-University_of_South_Florida_seal.svg.png" width="18" align="center"/> **CIS Lab @ USF** <img src="https://img.shields.io/badge/Guardiane-006747?style=for-the-badge&logo=universityofsouthflorida&logoColor=white"/> | Sep 2024 – May 2025 · Tampa, FL |
+| 🔬 **Student Software Engineer** | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/University_of_South_Florida_seal.svg/150px-University_of_South_Florida_seal.svg.png" width="18" align="center"/> **CIS Lab @ USF** | Sep 2024 – May 2025 · Tampa, FL |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
