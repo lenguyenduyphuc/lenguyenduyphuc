@@ -130,7 +130,7 @@
     <a href="https://github.com/lenguyenduyphuc/The-Directory">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
-    <a href="https://github.com/lenguyenduyphuc/CountryInfo">
+    <a href="[https://github.com/lenguyenduyphuc/CountryInfo](https://github.com/lenguyenduyphuc/CountryInfo)">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10"/>
     </a>
     <a href="https://github.com/lenguyenduyphuc/SafeRides">
