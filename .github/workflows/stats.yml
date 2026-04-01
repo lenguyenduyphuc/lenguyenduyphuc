@@ -1,0 +1,35 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github
+          path: profile/stats.svg
+
+      - name: Generate Top Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10
+          path: profile/top-langs.svg
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "update stats" || exit 0
+          git push
