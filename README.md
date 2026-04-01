@@ -23,7 +23,7 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🔷 **Software Engineer Intern** | **Microsoft <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>** | Summer 2026 · Redmond, WA |
+| 🔷 **Software Engineer Intern** | **Microsoft** <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> | Summer 2026 · Redmond, WA |
 | 🤖 **Software Engineer Intern** | **Guardiane @ USF <img src="https://img.shields.io/badge/Guardiane-006747?style=for-the-badge&logo=universityofsouthflorida&logoColor=white"/>** | May 2025 – Present · Tampa, FL |
 | 💰 **Software Engineer Intern** | **FinBudAI** *(Top Startup — UpYouth TechIncubators 2024)* | Jan – May 2025 · Chicago, IL |
 | 🔬 **Student Software Engineer** | **CIS Lab @ USF <img src="https://img.shields.io/badge/Guardiane-006747?style=for-the-badge&logo=universityofsouthflorida&logoColor=white"/>** | Sep 2024 – May 2025 · Tampa, FL |
