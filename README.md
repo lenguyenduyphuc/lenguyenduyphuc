@@ -35,11 +35,6 @@
 | 💰 **Software Engineer Intern** | **FinBudAI** *(Top Startup — UpYouth TechIncubators 2024)* | Jan – May 2025 · Chicago, IL |
 | 🔬 **Student Software Engineer** | **CIS Lab @ USF** | Sep 2024 – May 2025 · Tampa, FL |
 
-### Highlights
-- 🛡️ **Guardiane** — Fine-tuned Qwen3-4B for predator detection on 150K+ records, boosting accuracy **40% → 90%**; built threat-detection pipeline processing 50K+ Reddit posts with federated learning
-- 💬 **FinBudAI** — LangGraph + RAG-powered LLM advisor with **6ms latency**, scaling to 200+ concurrent users; automated financial news scraping from 20+ sources, cutting manual research by **90%**
-- 🔐 **CIS Lab** — GPT-4o / LLaMA cybersecurity agent protecting 10+ IoT device categories; reduced vulnerability detection time to **60 seconds**
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
@@ -73,9 +68,9 @@
 
 <div align="center">
   <a href="https://github.com/ttrang87/toast-tutor">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=ToastTutor&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ttrang87&repo=toast-tutor&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
-  <a href="https://github.com/lenguyenduyphuc/DestressAI">
+  <a href="https://github.com/lenguyenduyphuc/DeStress">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Destress&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
 </div>
