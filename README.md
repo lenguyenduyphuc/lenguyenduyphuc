@@ -1,4 +1,3 @@
-<!-- ─────────────────────────────── HEADER ─────────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=180&section=header&text=Phuc%20Le&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20USF%20%E2%80%9828&descSize=20&descAlignY=75"/>
 
 <div align="center">
@@ -41,37 +40,37 @@
 
 <div align="center">
   <a href="https://github.com/lenguyenduyphuc/DeStress">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10&v=2"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?repo=DeStress&username=lenguyenduyphuc&border_radius=10&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?repo=Nano_GPT&username=lenguyenduyphuc&border_radius=10&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/lenguyenduyphuc/SafeRides">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?repo=SafeRides&username=lenguyenduyphuc&border_radius=10&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/lenguyenduyphuc/The-Directory">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?repo=The-Directory&username=lenguyenduyphuc&border_radius=10&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/lenguyenduyphuc/CountryInfo">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10&v=2"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?repo=CountryInfo&username=lenguyenduyphuc&border_radius=10&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/lenguyenduyphuc/CodePath">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?repo=CodePath&username=lenguyenduyphuc&border_radius=10&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ttrang87/toast-tutor">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ttrang87&repo=toast-tutor&theme=tokyonight&hide_border=true&border_radius=10&v=2"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?repo=toast-tutor&username=ttrang87&border_radius=10&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/lenguyenduyphuc/DeStress">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10&v=2"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&repo=DeStress&username=lenguyenduyphuc&hide_border=true&border_radius=10"/>
   </a>
 </div>
 
