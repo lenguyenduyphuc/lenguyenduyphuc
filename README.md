@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=180&section=header&text=Phuc%20Le&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20USF%20%E2%80%9828&descSize=20&descAlignY=75"/>
+https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=180&section=header&text=Hi%2C%20I'm%20Nguyen%20Duy%20Phuc%20Le&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20USF%20%E2%80%9828&descSize=20&descAlignY=75
 
 <div align="center">
   <a href="mailto:nguyenduyphucle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
