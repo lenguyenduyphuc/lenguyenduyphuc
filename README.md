@@ -7,19 +7,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views"/>
   <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
   <a href="https://github.com/lenguyenduyphuc">
     <img src="https://img.shields.io/badge/Status-Coding%20Something%20Amazing-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%94%B7;AI+Researcher+%40+USF+CIS+Lab;Full-Stack+%7C+LLM+Fine-Tuning+%7C+Security;4.0+GPA+%7C+Honors+College"/>
 </div>
 
@@ -38,20 +34,13 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/lenguyenduyphuc/DeStress">🧠 DeStress</a> &nbsp; | &nbsp;
-    <a href="https://github.com/lenguyenduyphuc/Nano_GPT">🤖 Nano_GPT</a> &nbsp; | &nbsp;
-    <a href="https://github.com/lenguyenduyphuc/SafeRides">🚗 SafeRides</a> &nbsp; | &nbsp;
-    <a href="https://github.com/lenguyenduyphuc/The-Directory">📁 The-Directory</a>
-    <br/><br/>
-    <a href="https://github.com/lenguyenduyphuc/CountryInfo">🌍 CountryInfo</a> &nbsp; | &nbsp;
-    <a href="https://github.com/lenguyenduyphuc/CodePath">💻 CodePath</a> &nbsp; | &nbsp;
-    <a href="https://github.com/ttrang87/toast-tutor">🍞 Toast Tutor</a>
-  </h3>
-</div>
-
-<br/>
+* 🧠 **[DeStress](https://github.com/lenguyenduyphuc/DeStress)** - A powerful, intuitive AI chat application built with React and modern web technologies.
+* 🤖 **[Nano_GPT](https://github.com/lenguyenduyphuc/Nano_GPT)** - A lightweight, custom implementation of a Generative Pre-trained Transformer model.
+* 🚗 **[SafeRides](https://github.com/lenguyenduyphuc/SafeRides)** - A TypeScript-based application dedicated to ride coordination and safety tracking.
+* 📁 **[The-Directory](https://github.com/lenguyenduyphuc/The-Directory)** - A centralized JavaScript application for managing organizational data and contacts.
+* 🌍 **[CountryInfo](https://github.com/lenguyenduyphuc/CountryInfo)** - A modern web app providing detailed global country information and real-time weather data.
+* 💻 **[CodePath](https://github.com/lenguyenduyphuc/CodePath)** - A repository of projects, algorithms, and coursework completed through CodePath programs.
+* 🍞 **[Toast Tutor](https://github.com/ttrang87/toast-tutor)** - A web platform connecting tutors with students based on personalized learning needs and availability.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -78,20 +67,15 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<!-- ─────────────────────────────── STATS ──────────────────────────────── -->
 <div align="center">
   <h2>🏆 GitHub Stats</h2>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&line=3B82F6&point=10B981"/>
 </div>
 
-<!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ───────────────────────────── SNAKE ─────────────────────────────────── -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="30">
@@ -105,5 +89,4 @@
   </picture>
 </div>
 
-<!-- ─────────────────────────────── FOOTER ─────────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer"/>
