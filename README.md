@@ -78,10 +78,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
-
-div align="center">
+<!-- ─────────────────────────────── STATS ──────────────────────────────── -->
+<div align="center">
   <h2>🏆 GitHub Stats</h2>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10"/>
@@ -90,6 +88,7 @@ div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&line=3B82F6&point=10B981"/>
 </div>
 
+<!-- ─────────────────────────────── DIVIDER ────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ───────────────────────────── SNAKE ─────────────────────────────────── -->
@@ -106,4 +105,5 @@ div align="center">
   </picture>
 </div>
 
+<!-- ─────────────────────────────── FOOTER ─────────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer"/>
