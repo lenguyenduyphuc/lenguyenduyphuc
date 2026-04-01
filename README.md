@@ -81,13 +81,29 @@
 
 ## 📊 GitHub Stats
 
+div align="center">
+  <h2>🏆 GitHub Stats</h2>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&line=3B82F6&point=10B981"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ───────────────────────────── SNAKE ─────────────────────────────────── -->
 <div align="center">
-  <img width="49%" src="./profile/stats.svg"/>
-  <img width="49%" src="./profile/top-langs.svg"/>
-  <br/><br/>
-  <img width="70%" src="https://streak-stats.demolab.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <br/><br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000"/>
+  <h2>
+    <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="30">
+    Contribution Snake
+  </h2>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/lenguyenduyphuc/lenguyenduyphuc/output/github-contribution-grid-snake.svg" alt="github-snake"/>
+  </picture>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=120&section=footer"/>
