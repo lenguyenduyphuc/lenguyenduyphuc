@@ -4,17 +4,15 @@
   <a href="mailto:nguyenduyphucle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/phucleng/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://lenguyenduyphuc.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://github.com/lenguyenduyphuc"><img src="https://img.shields.io/badge/Status-Coding%20Something%20Amazing-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+  <br/>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views"/>
   <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
 
-  <br/><br/>
-
-  <a href="https://github.com/lenguyenduyphuc">
-    <img src="https://img.shields.io/badge/Status-Coding%20Something%20Amazing-blue?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <br/><br/>
+  <br/>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%94%B7;AI+Researcher+%40+USF+CIS+Lab;Full-Stack+%7C+LLM+Fine-Tuning+%7C+Security;4.0+GPA+%7C+Honors+College"/>
 </div>
