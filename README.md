@@ -1,16 +1,27 @@
+<!-- ─────────────────────────────── HEADER ─────────────────────────────── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=180&section=header&text=Phuc%20Le&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20Researcher%20%7C%20USF%20%E2%80%9828&descSize=20&descAlignY=75"/>
 
 <div align="center">
   <a href="mailto:lep13193@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/phucleng/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://lenguyenduyphuc.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lenguyenduyphuc.lenguyenduyphuc&left_color=blue&right_color=green&left_text=Profile%20Views"/>
+  <img src="https://img.shields.io/github/stars/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/lenguyenduyphuc?style=flat&logo=github&labelColor=blue&color=green" alt="Followers"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Incoming+SWE+Intern+@+Microsoft+%F0%9F%94%B7;AI+Researcher+%40+USF+CIS+Lab;Full-Stack+%7C+LLM+Fine-Tuning+%7C+Security;4.0+GPA+%7C+Honors+College"/>
+  <a href="https://github.com/lenguyenduyphuc">
+    <img src="https://img.shields.io/badge/Status-Coding%20Something%20Amazing-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%94%B7;AI+Researcher+%40+USF+CIS+Lab;Full-Stack+%7C+LLM+Fine-Tuning+%7C+Security;4.0+GPA+%7C+Honors+College"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -19,15 +30,10 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🔷 **Software Engineer Intern** *(Incoming)* | **Microsoft** | Summer 2026 · Redmond, WA |
+| 🔷 **Software Engineer Intern** | **Microsoft** | Summer 2026 · Redmond, WA |
 | 🤖 **Software Engineer Intern** | **Guardiane @ USF** | May 2025 – Present · Tampa, FL |
 | 💰 **Software Engineer Intern** | **FinBudAI** *(Top Startup — UpYouth TechIncubators 2024)* | Jan – May 2025 · Chicago, IL |
 | 🔬 **Student Software Engineer** | **CIS Lab @ USF** | Sep 2024 – May 2025 · Tampa, FL |
-
-### Highlights
-- 🛡️ **Guardiane** — Fine-tuned Qwen3-4B for predator detection on 150K+ records, boosting accuracy **40% → 90%**; built threat-detection pipeline processing 50K+ Reddit posts with federated learning
-- 💬 **FinBudAI** — LangGraph + RAG-powered LLM advisor with **6ms latency**, scaling to 200+ concurrent users; automated financial news scraping from 20+ sources, cutting manual research by **90%**
-- 🔐 **CIS Lab** — GPT-4o / LLaMA cybersecurity agent protecting 10+ IoT device categories; reduced vulnerability detection time to **60 seconds**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -35,22 +41,36 @@
 
 <div align="center">
   <a href="https://github.com/lenguyenduyphuc/DeStress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=DeStress&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
   <a href="https://github.com/lenguyenduyphuc/Nano_GPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10"/>
-  </a>
-  <a href="https://github.com/lenguyenduyphuc/SafeRides">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10"/>
-  </a>
-  <a href="https://github.com/lenguyenduyphuc/The-Directory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=Nano_GPT&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
 </div>
 
-**ToastTutor** — Full-stack tutoring platform (React · Django · Redis · Supabase · Docker) — booking system w/ GoogleMeet API, Redis caching cut response time **5ms → 1ms**, Docker CI/CD deploys in **38s**
+<div align="center">
+  <a href="https://github.com/lenguyenduyphuc/SafeRides">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=SafeRides&theme=tokyonight&hide_border=true&border_radius=10"/>
+  </a>
+  <a href="https://github.com/lenguyenduyphuc/The-Directory">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=The-Directory&theme=tokyonight&hide_border=true&border_radius=10"/>
+  </a>
+</div>
 
-**DestressAI** — Fine-tuned Qwen2.5-0.5B on 2K+ stress conversations; React + Node/Express + MongoDB; deployed to HuggingFace with local inference via Flask + quantization for offline privacy
+<div align="center">
+  <a href="https://github.com/lenguyenduyphuc/CountryInfo">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CountryInfo&theme=tokyonight&hide_border=true&border_radius=10"/>
+  </a>
+  <a href="https://github.com/lenguyenduyphuc/CodePath">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyenduyphuc&repo=CodePath&theme=tokyonight&hide_border=true&border_radius=10"/>
+  </a>
+</div>
+
+<br/>
+
+> 🧠 **ToastTutor** — Full-stack tutoring platform (React · Django · Redis · Supabase · Docker) — booking system w/ GoogleMeet API, Redis caching cut response time **5ms → 1ms**, Docker CI/CD deploys in **38s**
+
+> 🤖 **DestressAI** — Fine-tuned Qwen2.5-0.5B on 2K+ stress conversations; React + Node/Express + MongoDB; deployed to HuggingFace with local inference via Flask + quantization for offline privacy
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -81,11 +101,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lenguyenduyphuc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyenduyphuc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <br/><br/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=lenguyenduyphuc&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <br/><br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lenguyenduyphuc&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&line=3B82F6&point=10B981"/>
 </div>
 
