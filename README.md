@@ -14,7 +14,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%AA%9F;Developer+Guardiane+%F0%9F%90%82+USF;FullStack+%7C+AI+Engineer;4.0+GPA+%7C+USF+Honors+College+%F0%9F%8E%93"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=SWE+Intern+@+Microsoft+%F0%9F%AA%9F;Developer+Guardiane+USF+%F0%9F%90%82;FullStack+Developer+%7C+AI+Engineer;4.0+GPA+%7C+USF+Honors+College+%F0%9F%8E%93"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
